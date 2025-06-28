@@ -1,18 +1,45 @@
-# Octra-x-crypto-mikeee
-STEP BY STEP WALLET GENERATION GUIDE OF OCTRA { CODESPACE }
-------------------------------------------------------------
-🔹 Step 1: Install Bun
+# STEP BY STEP WALLET GENERATION GUIDE OF OCTRA { CODESPACE }
+
+---
+
+## 🔹 Step 1: Install Bun
+
+```bash
 curl -fsSL https://bun.sh/install | bash
 source ~/.bashrc
 bun --version
-🔹 Step 2: Install Dependencies
+````
+
+---
+
+## 🔹 Step 2: Install Dependencies
+
+```bash
 bun install
-🔹 Step 3: Build the Project
+```
+
+---
+
+## 🔹 Step 3: Build the Project
+
+```bash
 bun run build
-🔹 Step 4: Start the Server
+```
+
+---
+
+## 🔹 Step 4: Start the Server
+
+```bash
 bun start
-✅ After this, click the “PORTS” tab in Codespace and open localhost:8888 in browser.
+```
 
-Done! Wallet Generator is live. 🔐
+> ✅ After this, click the **“PORTS”** tab in Codespace and open `localhost:8888` in browser.
 
-📢 JOIN TG FOR UPDATES: t.me/EarnByAbhi23
+---
+
+**Done! Wallet Generator is live. 🔐**
+
+---
+
+📢 **JOIN TG FOR UPDATES**: https://t.me/crypto_mikeee
