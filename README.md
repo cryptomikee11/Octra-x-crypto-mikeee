@@ -85,8 +85,7 @@ wallet.json
 ```
 
 Paste your test wallet details (⚠️ never use your real wallet):
-![Wallet Generation](IMG_20250630_110429.png)
-
+![Wallet Generation]![Image](https://github.com/user-attachments/assets/5f49ada3-a92f-4ab0-8e98-28d66ee3d5c2)
 
 ```
 {
